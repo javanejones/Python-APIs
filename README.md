@@ -1,5 +1,3 @@
-# Python-APIs
- HW#6
 # Python API Homework - What's the Weather Like?
 
 ## Background
